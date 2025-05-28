@@ -1,7 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Sudarshan Kumar</h1>
-<h3 align="center">Part-time Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <h1 align="center">Hi 👋, I'm sudarshan  kumar</h1>
+<h3 align="center">Part time  Software Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **krsudarshan1435@gmail.com**
 
-- 📄 Know about my experiences [Participated in 8+ hackathons and successfully completed 5+ projects, showcasing expertise in development and innovation.](Participated in 4+ hackathons and successfully completed 5+ projects, showcasing expertise in development and innovation.)
+- 📄 Know about my experiences Participated in 8+ hackathons and successfully completed 5+ projects, showcasing expertise in development and innovation.
 
 - ⚡ Fun fact **I am Funny😉**
 
